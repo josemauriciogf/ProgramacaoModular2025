@@ -1,0 +1,8 @@
+4) Crie um programa que embaralha ("criptografa") uma string usando o seguinte algoritmo: a string é reescrita 
+em blocos de 5 caracteres, sendo as novas palavras obtidas lendo-se cada coluna resultante, separadas por 
+asteriscos. Por exemplo, se a string for "mensagem secreta":
+mensa
+gem s
+ecret
+a
+A criptografia retorna "mgea*eec *nmr*s e *ast *" (atenção para os espaços em branco).

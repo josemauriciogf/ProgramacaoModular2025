@@ -1,0 +1,9 @@
+1) Escreva um programa que leia do usuário largura e altura e imprima um retângulo na tela, como, por exemplo, 
+largura 5 e altura 7:
+XXXXX
+X X
+X X
+X X
+X X
+X X
+XXXXX
